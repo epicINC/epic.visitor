@@ -1,0 +1,17 @@
+{
+  "name": "epic.visitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --recursive -R spec --require should test/ --bail"
+  },
+  "keywords": [
+    "visitor"
+  ],
+  "author": "S",
+  "license": "ISC"
+}
